@@ -1,0 +1,47 @@
+.navbar-nav {
+    list-style: none;
+}
+
+.navbar-nav li {
+    display: inline-block;
+}
+
+
+/* Main Navigation */
+
+.navbar {
+    width: 100%;
+    display: table;
+    position: relative;
+    background-color: #503031;
+}
+
+.navbar-nav {
+    list-style: none;
+    width:auto; 
+    float:right;
+}
+
+.navbar a {
+    color:#eee; 
+    font-size:1.5em;    
+}
+
+.navbar .logo {
+    position: absolute;
+    left: 1em;
+}
+
+.navbar-nav li {
+    display: inline-block;
+    padding: 10px 10px; 
+}
+
+a, a:hover, a:focus, a:active, a.active {
+	outline: 0;
+    text-decoration: none;
+}
+
+.navbar a {
+    padding: 10px 20px;
+}
