@@ -178,3 +178,14 @@ ul.buttons.vertical li {
     display: block;
     padding: 1.5em 0 0 0;
 }
+
+.bg {
+    background-size: cover;
+    background-attachment: fixed;
+    height: 30vh;
+    width: 100%;
+}
+
+.bg1{
+    background-image: url(../images/2.jpg);
+}
