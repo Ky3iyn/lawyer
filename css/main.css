@@ -40,6 +40,6 @@ p, blockquote {
     margin: 0 0 2em 0;
 }
 
-#main {
-    align-content: center;
+img {
+    max-width:100%;
 }
